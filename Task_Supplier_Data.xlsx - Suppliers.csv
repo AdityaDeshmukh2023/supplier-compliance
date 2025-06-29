@@ -1,0 +1,16 @@
+supplier_id,name,country,compliance_score,contract_terms,last_audit
+1,Supplier_1,China,84,"{'delivery_time': 'within 7 days', 'quality_standard': 'ISO9001', 'discount_rate': 5}",2024-03-29
+2,Supplier_2,USA,60,"{'delivery_time': 'within 7 days', 'quality_standard': 'ISO9001', 'discount_rate': 5}",2023-11-12
+3,Supplier_3,Germany,95,"{'delivery_time': 'within 10 days', 'quality_standard': 'ISO9001', 'discount_rate': 2}",2024-05-14
+4,Supplier_4,Mexico,76,"{'delivery_time': 'within 5 days', 'quality_standard': 'ISO45001', 'discount_rate': 7}",2024-02-12
+5,Supplier_5,China,75,"{'delivery_time': 'within 3 days', 'quality_standard': 'ISO14001', 'discount_rate': 4}",2024-02-01
+6,Supplier_6,Germany,65,"{'delivery_time': 'within 14 days', 'quality_standard': 'ISO14001', 'discount_rate': 3}",2024-05-25
+7,Supplier_7,Germany,80,"{'delivery_time': 'within 10 days', 'quality_standard': 'ISO9001', 'discount_rate': 2}",2024-09-23
+8,Supplier_8,China,73,"{'delivery_time': 'within 10 days', 'quality_standard': 'ISO9001', 'discount_rate': 2}",2024-03-27
+9,Supplier_9,Germany,93,"{'delivery_time': 'within 14 days', 'quality_standard': 'ISO14001', 'discount_rate': 3}",2024-01-31
+10,Supplier_10,Canada,74,"{'delivery_time': 'within 3 days', 'quality_standard': 'ISO14001', 'discount_rate': 4}",2024-02-16
+11,Supplier_11,USA,66,"{'delivery_time': 'within 3 days', 'quality_standard': 'ISO14001', 'discount_rate': 4}",2024-02-04
+12,Supplier_12,Germany,89,"{'delivery_time': 'within 10 days', 'quality_standard': 'ISO9001', 'discount_rate': 2}",2024-02-17
+13,Supplier_13,China,60,"{'delivery_time': 'within 3 days', 'quality_standard': 'ISO14001', 'discount_rate': 4}",2024-06-23
+14,Supplier_14,Mexico,88,"{'delivery_time': 'within 10 days', 'quality_standard': 'ISO9001', 'discount_rate': 2}",2024-03-09
+15,Supplier_15,USA,86,"{'delivery_time': 'within 10 days', 'quality_standard': 'ISO9001', 'discount_rate': 2}",2023-12-14
